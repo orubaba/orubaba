@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @orubaba
-- 👀 I’m interested in python prog and machine learning
+- 👀 I’m interested in python prog and machine learning applications in computational chemistry
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on works related to machine learning and data science
 - 📫 How to reach me ...
